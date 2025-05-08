@@ -1,6 +1,3 @@
-Here's a clean and informative section you can copy into your `README.md` for **Exercise 00**:
-
----
 
 ## 📘 Exercise 00 – First Python Script
 
